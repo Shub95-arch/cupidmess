@@ -70,8 +70,11 @@
 
 <br/>
 
-<div align="center">
-<a href='https://www.instagram.com/cupidmess?igsh=czVqbGJweXF1b2Vj&utm_source=qr' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<div align="center" color="blue">
+Crypto: USDT
+Network: Tron ( TRC 20)
+USDT Address: 
+TSiXk7D5namc89jzQrTprgPDWHsu9LgqJN
 </div>
 
 <br/>
